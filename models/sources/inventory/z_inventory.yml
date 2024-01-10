@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: DBT_MAYURPACHANGANE
+    description: ""
+    database: DBTTEST
+    schema: DBT_MAYURPACHANGANE
+    tags: 
+      - scholar
+    tables: 
+      - name: inventorydata
